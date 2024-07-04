@@ -1,16 +1,10 @@
-# flutter_calculator
+# Numbo
 
-A new Flutter project.
+Welcome to Numbo, a calculator app!
 
-## Getting Started
+## Features:
+- **History Keeping:** Powered by Hive, this app remembers every calculation you make, ensuring you never lose track.
+- **Easy to Use:** Simple interface designed for quick calculations on the go.
+- **Coming Soon:** Exciting updates including more functionalities and visual improvements!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stay tuned for more updates and happy calculating!
